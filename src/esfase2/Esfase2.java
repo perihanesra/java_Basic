@@ -24,9 +24,9 @@ public class Esfase2 {
     int y;
     int z;
     z =10;
-    System.out.println("Merhaba Dünya "+z);
+    System.out.println("Hello World "+z);
     z=20;
-    System.out.println("Merhaba Dünya "+z);
+    System.out.println("Hello World "+z);
     
     double pi = 3.14 ;
     System.out.println("pi:" +pi);
